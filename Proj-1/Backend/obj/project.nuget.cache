@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Ks2SlgOprQ=",
+  "success": true,
+  "projectFilePath": "D:\\VSCODE\\CODES\\.Net-Development-Learning\\Proj-1\\Backend\\Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krish chothani\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\krish chothani\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
