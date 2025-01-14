@@ -99,3 +99,4 @@ D:\VSCODE\CODES\.Net-Development-Learning\Proj-5\bin\Debug\net8.0\runtimes\win-x
 D:\VSCODE\CODES\.Net-Development-Learning\Proj-5\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
 D:\VSCODE\CODES\.Net-Development-Learning\Proj-5\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
 D:\VSCODE\CODES\.Net-Development-Learning\Proj-5\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\VSCODE\CODES\.Net-Development-Learning\Proj-5\bin\Debug\net8.0\AutoMapper.dll

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7RJ/Uppmre0=",
+  "dgSpecHash": "g0NYqnl+3bY=",
   "success": true,
   "projectFilePath": "D:\\VSCODE\\CODES\\.Net-Development-Learning\\Proj-5\\Proj-5.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\krish chothani\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\krish chothani\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\krish chothani\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\krish chothani\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",

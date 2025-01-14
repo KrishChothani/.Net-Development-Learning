@@ -1,6 +1,6 @@
-﻿namespace Proj_5.Models
+﻿namespace Proj_5.Dto
 {
-    public class User
+    public class UserDto
     {
         public int Id { get; set; }
         public string UserName { get; set; }
